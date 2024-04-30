@@ -1,0 +1,28 @@
+{
+  "lists": [
+    {
+      "name": "fdsa",
+      "color": "#a82424",
+      "id": 1
+    },
+    {
+      "name": "312",
+      "color": "#000000",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 1,
+      "text": "321",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "listId": 2,
+      "text": "312",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
